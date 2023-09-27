@@ -1,5 +1,9 @@
 ### Hi there 👋
+#### My name is Leyna.
 
+I'm a 3rd year Computer Science Major at UCI!
+
+You can find me here on my [LinkedIn](https://www.linkedin.com/in/leyna-nguyen-4a60a8232)!
 <!--
 **LeynaNguyen3/LeynaNguyen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
