@@ -10,7 +10,7 @@ You can find me here on my [LinkedIn](https://www.linkedin.com/in/leyna-nguyen-4
 *Here is a recent digital drawing I made for a friend's birthday:*
 ![HappyBdayJenny](https://github.com/LeynaNguyen3/LeynaNguyen3/assets/104172696/81dcf2b6-7727-460c-9862-26ed6a7c4815)
 
-
+This is a line I'm adding on Vim.
 <!--
 **LeynaNguyen3/LeynaNguyen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
